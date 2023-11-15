@@ -149,11 +149,12 @@ shape="rect">
 
 
 ## OUTPUT
-![Alt text](<Screenshot (60).png>) 
-![Alt text](<Screenshot (61).png>) 
-![Alt text](<Screenshot (62).png>) 
-![Alt text](<Screenshot (63).png>) 
-![Alt text](<Screenshot (64).png>)
+![Screenshot (3)](https://github.com/BALASUDHAN18/NearMe/assets/118807740/533174c6-5f61-450e-a0a0-b00ab0f59432)
+![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/c39225a3-8f16-4c23-965b-caddf9027455)
+![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/846c614e-5ca3-4511-95c8-6fa9a4a3893e)
+![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/c6b7da9e-7100-4b0c-bc60-07867c379abd)
+![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/4181fb73-f653-4ef2-850a-3fbd899b440a)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
