@@ -149,12 +149,11 @@ shape="rect">
 
 
 ## OUTPUT
-![Screenshot (3)](https://github.com/BALASUDHAN18/NearMe/assets/118807740/533174c6-5f61-450e-a0a0-b00ab0f59432)
-![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/c39225a3-8f16-4c23-965b-caddf9027455)
-![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/846c614e-5ca3-4511-95c8-6fa9a4a3893e)
-![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/c6b7da9e-7100-4b0c-bc60-07867c379abd)
-![image](https://github.com/BALASUDHAN18/NearMe/assets/118807740/4181fb73-f653-4ef2-850a-3fbd899b440a)
-
+![Screenshot (5)](https://github.com/BALASUDHAN18/NearMe/assets/118807740/f54b2506-048a-4cb0-b9b0-d9b37bf125b1)
+![283040297-c39225a3-8f16-4c23-965b-caddf9027455](https://github.com/BALASUDHAN18/NearMe/assets/118807740/d7782efd-b2f3-4a7f-9c07-4285c9bff7e1)
+![283040361-846c614e-5ca3-4511-95c8-6fa9a4a3893e](https://github.com/BALASUDHAN18/NearMe/assets/118807740/06b1281d-a535-4d6f-8a11-d81654d53511)
+![283040419-c6b7da9e-7100-4b0c-bc60-07867c379abd](https://github.com/BALASUDHAN18/NearMe/assets/118807740/9f8186ad-44f1-4410-aed6-e900a5afb61a)
+![283040462-4181fb73-f653-4ef2-850a-3fbd899b440a](https://github.com/BALASUDHAN18/NearMe/assets/118807740/66acf89e-ee7d-4c24-bea8-fa51e85a73ec)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
